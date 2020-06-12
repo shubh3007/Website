@@ -1,2 +1,2 @@
 # Website
-Here is my static website(currently working on it)
+Here is my static website(in progress)
